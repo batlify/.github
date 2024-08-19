@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://svgshare.com/i/19TW.svg" height="110px">
+  <img src="https://svgshare.com/i/19T5.svg" height="110px">
 </div> 
 <h1 align="center">Hi everyone 👋</h1>
 
