@@ -41,5 +41,5 @@ If you're interested in working with us or using our services:
 
 ---
 
-<p style="font-size:20px;font-weight: 600">© Batlify Internet s.r.o.</p>
+## © Batlify Internet s.r.o.
 <p>All projects under this organization are maintained by Batlify Internet s.r.o., headquartered in the European Union.</p>
