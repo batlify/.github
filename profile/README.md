@@ -23,9 +23,9 @@ We are committed to using modern technologies, strong security practices, and pe
 
 Explore our other GitHub organizations and development spaces:
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/batlify/.github/5706de58540015f1f7dc6b94e7a28685770b2ce1/profile/batlify_primary_color_light.svg" width="350" alt="Batlify Logo">
-  <img src="https://raw.githubusercontent.com/batlify/.github/5706de58540015f1f7dc6b94e7a28685770b2ce1/profile/batlify_primary_color_light.svg" width="350" alt="Batlify Logo">
+<p>
+  <img src="https://raw.githubusercontent.com/batlify/.github/refs/heads/main/profile/batlify_libraries_icon_dark.png" width="50" alt="Batlify Libraries logo" style="border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/batlify/.github/refs/heads/main/profile/batlify_software_icon_dark.png" width="50" alt="Batlify Logo" style="border-radius: 8px;">
 </p>
 
 ---
@@ -41,6 +41,5 @@ If you're interested in working with us or using our services:
 
 ---
 
-## © Batlify Internet s.r.o.
-
-All projects under this organization are maintained by Batlify Internet s.r.o., headquartered in the European Union.
+<p style="font-size:20px;font-weight: 600">© Batlify Internet s.r.o.</p>
+<p>All projects under this organization are maintained by Batlify Internet s.r.o., headquartered in the European Union.</p>
