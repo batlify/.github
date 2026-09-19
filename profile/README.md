@@ -49,8 +49,12 @@ In this organization, you will find:
 Explore our other GitHub organizations and development spaces:
 
 <p>
-  <img src="https://raw.githubusercontent.com/batlify/.github/refs/heads/main/profile/batlify_libraries_icon_dark.png" width="45" alt="Batlify Libraries logo" style="border-radius: 12px !important;">
-  <img src="https://raw.githubusercontent.com/batlify/.github/refs/heads/main/profile/batlify_software_icon_dark.png" width="45" alt="Batlify Logo" style="border-radius: 12px !important;">
+  <a href="https://github.com/batlify-libraries">
+    <img src="https://raw.githubusercontent.com/batlify/.github/refs/heads/main/profile/batlify_libraries_icon_dark.png" width="45" alt="Batlify Libraries logo" style="border-radius: 12px !important;">
+  </a>
+  <a href="https://github.com/batlify-software">
+    <img src="https://raw.githubusercontent.com/batlify/.github/refs/heads/main/profile/batlify_software_icon_dark.png" width="45" alt="Batlify Logo" style="border-radius: 12px !important;">
+  </a>
 </p>
 
 ---
